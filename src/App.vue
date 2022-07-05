@@ -18,7 +18,7 @@
       <div class="heading">
             Hello, <br />
           This is <span>Suraj Dubey</span> <br />
-          UI Designer + Coder.
+          A Front End Developer.
       </div>
 
           <div class="btn-div">
